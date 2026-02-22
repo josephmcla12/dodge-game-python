@@ -31,7 +31,7 @@ Dodge falling blocks, survive as long as possible, and climb the leaderboard!
 ## ▶️ How to Run
 1. Install Python 3  
 2. Install Pygame:  pip install pygame
-3. Run the game:  
+3. Run the game:  use A/D to go right/left or LEFT arrow or RIGHT arrow! 
 
 ## 📁 Files
 - `dodge_game.py` — full game code  
